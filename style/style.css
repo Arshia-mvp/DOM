@@ -1,0 +1,138 @@
+body{
+    background-color: aqua;
+}
+
+.blue-button{
+    width: 120px;
+    height: 30px;
+    background-color: blue;
+    border: 3px solid blue;
+    border-radius: 5px;
+}
+
+.blue-a{
+    color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.red-button{
+    width: 120px;
+    height: 30px;
+    background-color: red;
+    border: 3px solid red;
+    border-radius: 5px;
+}
+
+.red-a{
+    color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.green-button{
+    width: 120px;
+    height: 30px;
+    background-color: green;
+    border: 3px solid green;
+    border-radius: 5px;
+}
+
+.green-a{
+    color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.yellow-button{
+    width: 120px;
+    height: 30px;
+    background-color: yellow;
+    border: 3px solid yellow;
+    border-radius: 5px;
+}
+
+.yellow-a{
+    color: black;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.dark-button{
+    width: 120px;
+    height: 30px;
+    background-color: black;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.dark-a{
+    color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.light-button{
+    width: 120px;
+    height: 30px;
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 5px;
+}
+
+.light-a{
+    color: black;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.purple-button{
+    width: 120px;
+    height: 30px;
+    background-color: purple;
+    border: 3px solid purple;
+    border-radius: 5px;
+}
+
+.purple-a{
+    color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.pink-button{
+    width: 120px;
+    height: 30px;
+    background-color: pink;
+    border: 3px solid pink;
+    border-radius: 5px;
+}
+
+.pink-a{
+    color: black;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.palevioletred-button{
+    width: 133px;
+    height: 30px;
+    background-color: palevioletred;
+    border: 3px solid palevioletred;
+    border-radius: 5px;
+}
+
+.palevioletred-a{
+    color: white;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
